@@ -1,2 +1,3 @@
 # tftxvr.github.io
-bla bla bla
+
+This is a demo website created for time pass. Go to hell you all. 
