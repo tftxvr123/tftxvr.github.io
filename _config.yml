@@ -37,7 +37,7 @@ algolia:
 
 # Build settings
 markdown: kramdown
-theme: cayman
+theme: minima
 plugins: # previsously gems
   - jekyll-feed
   - jekyll-seo-tag
